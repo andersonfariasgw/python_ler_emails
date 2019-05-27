@@ -1,0 +1,6 @@
+{
+    "FROM_EMAIL": "",
+    "FROM_PWD": "",
+    "SMTP_SERVER":"",
+    "SMTP_PORT":""
+}
