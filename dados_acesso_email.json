@@ -1,6 +1,6 @@
 {
-    "FROM_EMAIL": "",
-    "FROM_PWD": "",
-    "SMTP_SERVER":"",
-    "SMTP_PORT":""
+    "FROM_EMAIL": "meuteste6666@gmail.com",
+    "FROM_PWD": "MEUTESTE123456TESTEMASTER",
+    "SMTP_SERVER":"imap.gmail.com",
+    "SMTP_PORT":"993"
 }
